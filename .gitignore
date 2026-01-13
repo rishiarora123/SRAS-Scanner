@@ -5,3 +5,4 @@ data/Files/*
 !data/Files/tls_http_scanner.py
 !data/Files/server.py
 !data/Files/scanner.py
+!data/Files/ip-range-recon.sh
