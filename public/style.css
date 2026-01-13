@@ -1,0 +1,29 @@
+body {
+    background: #0f172a;
+    color: #e5e7eb;
+    font-family: monospace;
+    padding: 30px;
+}
+
+input, button {
+    padding: 12px;
+    margin: 10px 0;
+    width: 400px;
+    display: block;
+    background: #020617;
+    color: white;
+    border: 1px solid #334155;
+}
+
+button {
+    cursor: pointer;
+    background: #2563eb;
+}
+
+pre {
+    margin-top: 20px;
+    background: black;
+    padding: 20px;
+    height: 400px;
+    overflow-y: scroll;
+}

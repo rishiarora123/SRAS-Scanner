@@ -1,0 +1,25 @@
+{
+  "name": "sras-scanner",
+  "version": "1.0.0",
+  "description": "Scanner",
+  "keywords": [],
+  "homepage": "https://github.com/rishiarora123/SRAS-Scanner#readme",
+  "bugs": {
+    "url": "https://github.com/rishiarora123/SRAS-Scanner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishiarora123/SRAS-Scanner.git"
+  },
+  "license": "ISC",
+  "author": "Rishi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1"
+  }
+}
